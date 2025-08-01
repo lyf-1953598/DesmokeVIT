@@ -1,4 +1,4 @@
-# DesmokeVIT: Desmoking with CycleGAN-Enhanced Vision Transformer for Unpaired Laparoscopic Images
+# DesmokeVIT: A Red Bias-Resistant Approach to Unpaired Laparoscopic Smoke Removal
 
 ## Background and Motivation
 
